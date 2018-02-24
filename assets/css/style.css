@@ -423,6 +423,7 @@ body {
 .card {
     background-color: #E7F1F8;
     border: none;
+    margin: 0 auto;
 }
 
 .card img {
